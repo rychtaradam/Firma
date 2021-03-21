@@ -12,7 +12,9 @@ public:
 	std::string getICO()const;
 	bool setICO(const std::string);
 	std::string getNazev()const;
-	bool setNazev(const std::string);
+	bool setNazev(std::string);
+
+	friend std::ostream& operator<<(std::ostream&, const Firma&);
 
 private:
 	std::string ico;

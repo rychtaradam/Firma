@@ -1,0 +1,2 @@
+C:\Users\rosta\Desktop\Firma-main\x64\Debug\Firma.exe
+C:\Users\rosta\Desktop\Firma-main\x64\Debug\Firma.pdb
